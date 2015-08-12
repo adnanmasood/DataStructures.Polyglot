@@ -1,0 +1,1 @@
+c:\dev\DataStructures.Polyglot\ds.csharp\bin\Debug\ds.csharp.exe.config
